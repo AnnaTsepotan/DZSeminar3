@@ -11,3 +11,5 @@
 
 
 * **git checkout branch_name** - переходим на ветку branch_name.
+
+* **git log --graph** - выводим список коммитов в виде красивого дерева.
