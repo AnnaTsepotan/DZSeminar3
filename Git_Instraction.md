@@ -6,4 +6,4 @@
 
 
 
-* **git branch -d branch_to_delete** - удаляем ветку. 
+* **git branch -d branch_to_delete** - удаляем ветку.
