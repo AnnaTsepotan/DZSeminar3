@@ -18,3 +18,5 @@
 
 
 * **git merge *branch_mane*** - Сливаем ветку *branch_name* с текущей веткой.
+
+* **git checkout *branch_name** - переключение с текущей ветки на *branch_name* .
