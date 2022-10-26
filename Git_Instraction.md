@@ -10,6 +10,6 @@
 
 * **git branch -d branch_to_delete** - удаляем ветку.
 
-* **git merge *branch_mane*** - Сливаем ветку *branch_name* с текущей веткой.
+* **git merge *branch_name*** - Сливаем ветку *branch_name* с текущей веткой.
 
 * **git checkout *branch_name** - переключение с текущей ветки на *branch_name* .
